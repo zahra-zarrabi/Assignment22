@@ -10,15 +10,12 @@
 ![result](https://user-images.githubusercontent.com/80582110/122115205-710bf980-ce39-11eb-879e-ce2c91c45fb8.jpg)
 
 #Board
-
 ![board](https://user-images.githubusercontent.com/80582110/122115233-78cb9e00-ce39-11eb-89a7-4534a3d2f830.JPG)
 
 #chess pieces
-
 ![final](https://user-images.githubusercontent.com/80582110/122117379-08724c00-ce3c-11eb-912f-536d8d994f6f.jpg)
 
 #highway
-
 ![highway](https://user-images.githubusercontent.com/80582110/122117469-217afd00-ce3c-11eb-8de8-dd4cfdc08687.jpg)
 
 # Mona_Lisa
