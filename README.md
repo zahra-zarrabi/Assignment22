@@ -1,12 +1,16 @@
 # Outputs
 
+#Tamrin_1
+
+
 ![image](https://user-images.githubusercontent.com/80582110/122115191-6b161880-ce39-11eb-9cdb-48a3855d138c.jpg)
-Tamrin_1
+
 
 Black_hole
 ![result](https://user-images.githubusercontent.com/80582110/122115205-710bf980-ce39-11eb-879e-ce2c91c45fb8.jpg)
 
 Board
+
 ![board](https://user-images.githubusercontent.com/80582110/122115233-78cb9e00-ce39-11eb-89a7-4534a3d2f830.JPG)
 
 ![final](https://user-images.githubusercontent.com/80582110/122117379-08724c00-ce3c-11eb-912f-536d8d994f6f.jpg)
